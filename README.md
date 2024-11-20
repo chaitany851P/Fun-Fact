@@ -12,7 +12,7 @@ A simple, interactive web application that generates random fun facts about me. 
 
 ## Live Demo
 
-Visit the live application: https://chaitany851P.github.io/Fun-Fact/
+Visit the live application: https://chaitany851p.github.io/Fun-Fact/
 
 ## Technologies Used
 
